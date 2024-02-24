@@ -1,0 +1,31 @@
+.loginpage-head{
+    text-align: center;
+    color:rgba(64, 10, 165, 0.99);
+    padding: 10px;
+    font-weight:700;
+    font-size: 50px;
+    font-style: italic;
+}
+.credentials{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(8, 1, 1);
+}
+body{
+    background-image: url('Images/loginpage-image.jpg');
+    padding: 1%;
+}
+
+.btn{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background: none;
+    border: none;
+    color: #ff9505;
+    display: block;
+    margin: 0 1rem;
+}
